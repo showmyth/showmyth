@@ -2,7 +2,7 @@
 Hey guys, name's Sowmith, I am mainly a backend developer who's looking to branch out into Deep Learning, and I hope my github page serves to be a digital archive where I can document my progress day by day :)
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/show.myth) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sowmithbasak13@gmail.com) 
 
 # 💻 Tech Stack:
