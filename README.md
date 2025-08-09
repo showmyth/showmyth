@@ -1,6 +1,4 @@
-# About Me:
-Hey guys, name's Sowmith, I am mainly a backend developer who's looking to branch out into Deep Learning, and I hope my github page serves to be a digital archive where I can document my progress day by day :)
-
+Fall down 7 times, take fall damage and die.
 # Tech Stack:
 ## Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
