@@ -19,4 +19,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
+## HacktoberFest 2025
+[![An image of My Holopin badges, which is a link to view my full Holopin profile](https://holopin.me/showmyth)](https://holopin.io/@showmyth)
+
 <!-- Appreciate GPRM helping me out link: https://gprm.itsvg.in -->
